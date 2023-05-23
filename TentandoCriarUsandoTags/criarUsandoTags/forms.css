@@ -1,0 +1,49 @@
+body{
+    background-image: linear-gradient(
+        rgb(65, 201, 65),
+        rgb(185, 181, 181)
+    )
+}
+
+.container{
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    width: 750px;
+    height: 1200px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+}
+.container2{
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    height: 90%;
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+}
+
+.button{
+    margin-top: 40px;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    height: 30px;
+    width: 110px;
+    border-radius: 10px;
+}
+
+.texto{
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
